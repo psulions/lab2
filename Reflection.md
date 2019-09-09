@@ -1,9 +1,10 @@
 # My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
+
+In this week, we talked about Github, and I learned a lot about it. Git is a version control system, and Github is website that uses git and developed more futures around git. Git tells you what is the different between the old file and the new file, where the different is. Github added like comment, pull request and more other futures that allow team of developers can work on a project without running into version problem when they merge the code together.
+In the github, people can fork other people’s file and modify either online or local, and update back to the github. Lastly can send a pull request then the master can see your request and approve to the original codes. Github also gives the master a graph to see how many people forked and base on the time to see how the code is being developed. The pull request also allows to comment, so between the master and the modifier both know what has been changed.
+
+*Screencast submission* - [YouTube video by HAXcms core contributor Bidong Sun](https://youtu.be/__ore1itR_U)
 Here's a reminder of how you do the link above as code.
 ```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
+*Screencast submission* - [YouTube video by HAXcms core contributor Bidong Sun](https://youtu.be/__ore1itR_U)
 ```
-
-Good luck!
